@@ -71,12 +71,11 @@ img {
   background-size: cover;
   background-position: center;  
 }
-.experience {
-  min-height: 100vh;
+.whatiknow {
+  min-height: 90vh;
   padding-top: 10%;
   padding-bottom: 10%;
   color: #fff;
-  background-image: url("http://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-1-full.jpg");
   background-size: cover;
   background-position: center;
 }
