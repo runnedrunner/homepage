@@ -98,3 +98,9 @@ img {
   color: #fff;
   background-color: #00bcd4;
 }
+.color-overlay {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  
