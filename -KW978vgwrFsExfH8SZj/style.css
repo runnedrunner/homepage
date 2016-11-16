@@ -86,6 +86,8 @@ img {
   padding-bottom: 10%;
   color: #fff;
   background-image: url("http://interfacelift.com/wallpaper/D339ca26/02841_theroadtonowhere_2880x1800.jpg");
+  background: rgba(39,62,84,0.82);
+  overflow: hidden;
   background-size: cover;
   background-position: center;
 }
