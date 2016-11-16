@@ -72,10 +72,11 @@ img {
   background-position: center;  
 }
 .whatiknow {
-  min-height: 50vh;
+  min-height: 100vh;
   padding-top: 10%;
   padding-bottom: 10%;
   color: #fff;
+  background-color: #000;
   background-size: cover;
   background-position: center;
 }
